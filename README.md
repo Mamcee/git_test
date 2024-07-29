@@ -1,4 +1,4 @@
 # git_test
 My git test run
 Hello Odin
-hello Odin
+hello, favour!
